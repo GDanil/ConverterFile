@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NBA>
+    <Conferences>
+        <Conference name="Eastern">
+            <Clubs>
+                <Club name="Celtics">
+                    <Positions>
+                        <Position Position="Heavy ford">
+                            <Players>
+                                <Player name="Jayson Tatum" Count_of_games="1204" Average_Points="32.2"></Player>
+                            </Players>
+                        </Position>
+                        <Position Position="Playmeker">
+                            <Players>
+                                <Player name="Marcus Smart" Count_of_games="1454" Average_Points="25.4"></Player>
+                            </Players>
+                        </Position>
+                    </Positions>
+                </Club>
+                <Club name="Baks">
+                    <Positions>
+                        <Position Position="Heavy ford">
+                            <Players>
+                                <Player name="Giannis Antetokounmpo" Count_of_games="680"
+                                        Average_Points="26.8"></Player>
+                                <Player name="Khris Middleton" Count_of_games="1654" Average_Points="19.0"></Player>
+                            </Players>
+                        </Position>
+                    </Positions>
+                </Club>
+                <Club name="Nets">
+                    <Positions>
+                        <Position Position="Heavy ford">
+                            <Players>
+                                <Player name="Kevin Durant" Count_of_games="1705" Average_Points="36.2"></Player>
+                            </Players>
+                        </Position>
+                        <Position Position="null">
+                            <Players>
+                                <Player name="Kyrie Irving" Count_of_games="1756" Average_Points="39.5"></Player>
+                            </Players>
+                        </Position>
+                    </Positions>
+                </Club>
+            </Clubs>
+        </Conference>
+        <Conference name="Western">
+            <Clubs>
+                <Club name="Grizlis">
+                    <Positions>
+                        <Position Position="Playmeker">
+                            <Players>
+                                <Player name="Ja Morant" Count_of_games="456" Average_Points="37.1"></Player>
+                            </Players>
+                        </Position>
+                        <Position Position="Center">
+                            <Players>
+                                <Player name="Stiven Adam" Count_of_games="457" Average_Points="30.1"></Player>
+                            </Players>
+                        </Position>
+                    </Positions>
+                </Club>
+                <Club name="Dallas">
+                    <Positions>
+                        <Position Position="Playmeker">
+                            <Players>
+                                <Player name="Luka Doncic" Count_of_games="896" Average_Points="37.3"></Player>
+                                <Player name="Jayden Hardy" Count_of_games="765" Average_Points="21.1"></Player>
+                            </Players>
+                        </Position>
+                    </Positions>
+                </Club>
+                <Club name="GSV">
+                    <Positions>
+                        <Position Position="Playmeker">
+                            <Players>
+                                <Player name="Stephen Carry" Count_of_games="1546" Average_Points="40.3"></Player>
+                            </Players>
+                        </Position>
+                        <Position Position="Small forward">
+                            <Players>
+                                <Player name="Klay Tompson" Count_of_games="1756" Average_Points="30.1"></Player>
+                            </Players>
+                        </Position>
+                    </Positions>
+                </Club>
+            </Clubs>
+        </Conference>
+    </Conferences>
+</NBA>

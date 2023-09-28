@@ -1,0 +1,196 @@
+{
+  "players": [
+    {
+      "name": "Jayson Tatum",
+      "count_of_games": 1204,
+      "average_Points": 32.2,
+      "conference": "Eastern",
+      "clubs": [
+        {
+          "name": "Celtics"
+        }
+      ],
+      "positions": [
+        {
+          "name": "Heavy ford"
+        }
+      ]
+    },
+    {
+      "name": "Marcus Smart",
+      "count_of_games": 1454,
+      "average_Points": 25.4,
+      "conference": "Eastern",
+      "clubs": [
+        {
+          "name": "Celtics"
+        }
+      ],
+      "positions": [
+        {
+          "name": "Playmeker"
+        }
+      ]
+    },
+    {
+      "name": "Giannis Antetokounmpo",
+      "count_of_games": 680,
+      "average_Points": 26.8,
+      "conference": "Eastern",
+      "clubs": [
+        {
+          "name": "Baks"
+        }
+      ],
+      "positions": [
+        {
+          "name": "Heavy ford"
+        }
+      ]
+    },
+    {
+      "name": "Khris Middleton",
+      "count_of_games": 1654,
+      "average_Points": 19.0,
+      "conference": "Eastern",
+      "clubs": [
+        {
+          "name": "Baks"
+        }
+      ],
+      "positions": [
+        {
+          "name": "Heavy ford"
+        }
+      ]
+    },
+    {
+      "name": "Kevin Durant",
+      "count_of_games": 1705,
+      "average_Points": 36.2,
+      "conference": "Eastern",
+      "clubs": [
+        {
+          "name": "Nets"
+        }
+      ],
+      "positions": [
+        {
+          "name": "Heavy ford"
+        }
+      ]
+    },
+    {
+      "name": "Kyrie Irving",
+      "count_of_games": 1756,
+      "average_Points": 39.5,
+      "conference": "Eastern",
+      "clubs": [
+        {
+          "name": "Nets"
+        }
+      ],
+      "positions": [
+        {
+          "name": "null"
+        }
+      ]
+    },
+    {
+      "name": "Ja Morant",
+      "count_of_games": 456,
+      "average_Points": 37.1,
+      "conference": "Western",
+      "clubs": [
+        {
+          "name": "Grizlis"
+        }
+      ],
+      "positions": [
+        {
+          "name": "Playmeker"
+        }
+      ]
+    },
+    {
+      "name": "Stiven Adam",
+      "count_of_games": 457,
+      "average_Points": 30.1,
+      "conference": "Western",
+      "clubs": [
+        {
+          "name": "Grizlis"
+        }
+      ],
+      "positions": [
+        {
+          "name": "Center"
+        }
+      ]
+    },
+    {
+      "name": "Luka Doncic",
+      "count_of_games": 896,
+      "average_Points": 37.3,
+      "conference": "Western",
+      "clubs": [
+        {
+          "name": "Dallas"
+        }
+      ],
+      "positions": [
+        {
+          "name": "Playmeker"
+        }
+      ]
+    },
+    {
+      "name": "Jayden Hardy",
+      "count_of_games": 765,
+      "average_Points": 21.1,
+      "conference": "Western",
+      "clubs": [
+        {
+          "name": "Dallas"
+        }
+      ],
+      "positions": [
+        {
+          "name": "Playmeker"
+        }
+      ]
+    },
+    {
+      "name": "Stephen Carry",
+      "count_of_games": 1546,
+      "average_Points": 40.3,
+      "conference": "Western",
+      "clubs": [
+        {
+          "name": "GSV"
+        }
+      ],
+      "positions": [
+        {
+          "name": "Playmeker"
+        }
+      ]
+    },
+    {
+      "name": "Klay Tompson",
+      "count_of_games": 1756,
+      "average_Points": 30.1,
+      "conference": "Western",
+      "clubs": [
+        {
+          "name": "GSV"
+        }
+      ],
+      "positions": [
+        {
+          "name": "Small forward"
+        }
+      ]
+    }
+  ]
+}
