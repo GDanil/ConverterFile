@@ -1,5 +1,6 @@
 package XML;
 import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.Optional;
 
 public class XMLPosition
@@ -26,11 +27,11 @@ public class XMLPosition
         return players;
     }
 
-    public void playersWith1000Game() ///////////
+    public void playersWith1000Game()
     {
         players.stream().filter(players ->players.getCount_of_games() > 1000).forEach(System.out::println);
     }
-    public void first3palyers() ///////////
+    public void first3palyers()
     {
         players.stream().limit(3).forEach(System.out::println);
     }
@@ -38,6 +39,16 @@ public class XMLPosition
     public void CountGames()
     {
         players.stream().map(XMLPlayer::getCount_of_games).forEach(System.out::println);
+    }
+
+    public void Sort()
+    {
+        players.stream().sorted(Comparator.comparingInt(XMLPlayer::getCount_of_games)).forEach(System.out::println);
+    }
+
+    public void ForName()
+    {
+        players.stream().filter(i -> i.getName().equals("Luka")).forEach(System.out::println);
     }
 
 

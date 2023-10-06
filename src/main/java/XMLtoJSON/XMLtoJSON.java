@@ -14,6 +14,7 @@ import javax.xml.parsers.SAXParserFactory;
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Comparator;
 
 public class XMLtoJSON extends DefaultHandler
 {
@@ -104,6 +105,7 @@ public class XMLtoJSON extends DefaultHandler
             }
 
         }
+        jPlayers.getPlayers().stream().sorted(Comparator.comparingInt(JsonPlayer::getCount_of_games)).forEach(System.out::println);
         return jPlayers;
     }
 
